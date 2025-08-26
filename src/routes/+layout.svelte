@@ -31,14 +31,16 @@
 
 <CrtLines />
 
-<Navigation />
+<!-- Navigation /-->
 <main class="wrapper">
-  <div class="header">
+  <!-- div class="header">
     <Header title={page.data.title} amount={page.data.amount} />
   </div>
   <div class="content">
     {@render children()}
-  </div>
+  </div -->
+
+  UNDER CONSTRUCTION
 </main>
 
 <style lang="scss">
